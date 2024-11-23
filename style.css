@@ -80,7 +80,9 @@ header {
   @media (max-width: 480px) {
     header {
       flex-direction: column;
-      padding-left: 100%;
+      justify-content:center;
+        algin-items:center;
+      
     }
 
     .logo img{
