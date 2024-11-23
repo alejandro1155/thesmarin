@@ -166,27 +166,7 @@ header {
     
     
     @media (max-width: 480px) {
-    .h1-main-1{
-       position: relative;
-       right: 70px;
-       padding-bottom: 45px;
-    }
-    .secciones{
-        display: flex;
-        flex-direction: column;
-        margin: 15px;
-        width: 96%;
-      
-        
-    }
-    .seccion{
-        margin-top: 45px;
-        
-    }
-    .imagenes {
-    width: 50%;
-    height: 200px;
-    }
+    
 
         
     }
