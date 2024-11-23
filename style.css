@@ -80,7 +80,7 @@ header {
   @media (max-width: 790px) {
     header {
       flex-direction: column;
-      padding-left: 700px;
+      padding-left: 100%;
     }
 
     .logo img{
