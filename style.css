@@ -80,7 +80,7 @@ header {
   @media (max-width: 790px) {
     header {
       flex-direction: column;
-      width: 96%;
+      width: 100%;
     }
 
     .logo img{
